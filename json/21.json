@@ -1,0 +1,19 @@
+{
+  "name": "JSI and NAPIWAS #22",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/21.jpg",
+  "edition": 21,
+  "date": 1764930171999,
+  "attributes": [
+    {
+      "trait_type": "Level",
+      "value": "Collaboration"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
