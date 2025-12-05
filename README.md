@@ -1,2 +1,2 @@
-# jsi_and_napiwas
-jsi_and_napiwas
+# jsi_and_napiwas collection
+jsi_and_napiwas collection

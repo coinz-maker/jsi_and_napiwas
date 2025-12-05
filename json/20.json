@@ -2,11 +2,11 @@
   "name": "JSI and NAPIWAS #21",
   "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/20.jpg",
   "edition": 20,
-  "date": 1764930171999,
+  "date": 1764943016999,
   "attributes": [
     {
-      "trait_type": "Level",
-      "value": "Collaboration"
+      "trait_type": "Профессия",
+      "value": "Художник"
     }
   ],
   "buttons": [

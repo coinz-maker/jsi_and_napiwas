@@ -2,11 +2,11 @@
   "name": "JSI and NAPIWAS #24",
   "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/23.jpg",
   "edition": 23,
-  "date": 1764930171999,
+  "date": 1764943017999,
   "attributes": [
     {
-      "trait_type": "Level",
-      "value": "Collaboration"
+      "trait_type": "Профессия",
+      "value": "Дед Мороз"
     }
   ],
   "buttons": [

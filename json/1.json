@@ -2,11 +2,11 @@
   "name": "JSI and NAPIWAS #2",
   "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/1.jpg",
   "edition": 1,
-  "date": 1764930168999,
+  "date": 1764943012999,
   "attributes": [
     {
-      "trait_type": "Level",
-      "value": "Collaboration"
+      "trait_type": "Профессия",
+      "value": "Рокер"
     }
   ],
   "buttons": [
