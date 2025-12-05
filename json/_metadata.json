@@ -498,3 +498,503 @@
   ],
   "compiler": "HashLips Art Engine"
 }
+{
+  "name": "JSI and NAPIWAS #1",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/0.jpg",
+  "edition": 0,
+  "date": 1764944706999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Игрок"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #2",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/1.jpg",
+  "edition": 1,
+  "date": 1764944707999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Рокер"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #3",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/2.jpg",
+  "edition": 2,
+  "date": 1764944707999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Богач"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #4",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/3.jpg",
+  "edition": 3,
+  "date": 1764944707999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Рыбак"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #5",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/4.jpg",
+  "edition": 4,
+  "date": 1764944707999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Ковбой"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #6",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/5.jpg",
+  "edition": 5,
+  "date": 1764944707999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Рыцарь"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #7",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/6.jpg",
+  "edition": 6,
+  "date": 1764944708999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Часовщик"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #8",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/7.jpg",
+  "edition": 7,
+  "date": 1764944709999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Геймер"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #9",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/8.jpg",
+  "edition": 8,
+  "date": 1764944709999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Волшебник"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #10",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/9.jpg",
+  "edition": 9,
+  "date": 1764944709999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Пивовар"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #11",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/10.jpg",
+  "edition": 10,
+  "date": 1764944709999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Астронавт "
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #12",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/11.jpg",
+  "edition": 11,
+  "date": 1764944710999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Акванавт"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #13",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/12.jpg",
+  "edition": 12,
+  "date": 1764944710999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Летчик"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #14",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/13.jpg",
+  "edition": 13,
+  "date": 1764944710999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Агроном"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #15",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/14.jpg",
+  "edition": 14,
+  "date": 1764944710999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Шахтер"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #16",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/15.jpg",
+  "edition": 15,
+  "date": 1764944710999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Водитель"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #17",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/16.jpg",
+  "edition": 16,
+  "date": 1764944711999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Электрик"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #18",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/17.jpg",
+  "edition": 17,
+  "date": 1764944711999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Сантехник"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #19",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/18.jpg",
+  "edition": 18,
+  "date": 1764944711999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Строитель"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #20",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/19.jpg",
+  "edition": 19,
+  "date": 1764944711999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Бармен"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #21",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/20.jpg",
+  "edition": 20,
+  "date": 1764944711999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Художник"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #22",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/21.jpg",
+  "edition": 21,
+  "date": 1764944712999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Программист"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #23",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/22.jpg",
+  "edition": 22,
+  "date": 1764944712999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "На отдыхе"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #24",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/23.jpg",
+  "edition": 23,
+  "date": 1764944712999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Дед Мороз"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+},
+{
+  "name": "JSI and NAPIWAS #25",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/24.jpg",
+  "edition": 24,
+  "date": 1764944712999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Капитан"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
