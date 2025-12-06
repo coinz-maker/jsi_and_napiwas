@@ -1,0 +1,20 @@
+{
+  "name": "JSI and NAPIWAS #26",
+  "description": "Этот NFT дает право на получение ЭКСКЛЮЗИВНОЙ ОТКРЫВАШКИ от проекта #NAPIWAS, а также 10% скидку на приобретение доходных #NFT JUNIOR от проекта JOYSTICK.\n\nNFT и открывашка являются пропуском на мероприятия NAPIWAS и JOYSTICK",
+  "image": "https://raw.githubusercontent.com/coinz-maker/jsi_and_napiwas/refs/heads/main/imgs/25.jpg",
+  "edition": 25,
+  "date": 1764944713999,
+  "attributes": [
+    {
+      "trait_type": "Профессия",
+      "value": "Пират"
+    }
+  ],
+  "buttons": [
+      {
+        "label": "Канал",
+        "uri": "https://t.me/NAPIWASofficial"
+      }
+  ],
+  "compiler": "HashLips Art Engine"
+}
